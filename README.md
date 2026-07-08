@@ -1,4 +1,5 @@
-**Título do projeto:** OncoCare4u — Dispositivo Lab-on-a-Chip para Deteção do Biomarcador CEA no Cancro Colorretal
+**Título do projeto:** OncoCare4u — Dispositivo Lab-on-a-Chip para Deteção do Biomarcador CEA no Cancro Colorretal (https://padlet.com/aliciaraujoramos/oncocare4u-7ba0zhttz8r7ufeh)
+
 
 O objetivo deste projeto foi desenvolver um protótipo baseado no conceito de um dispositivo lab-on-a-chip para apoio à deteção e monitorização do biomarcador tumoral **CEA — antigénio carcinoembrionário**, associado ao cancro colorretal. O trabalho partiu de uma problemática atual: o aumento da incidência de cancro em pessoas com menos de 50 anos e a necessidade de soluções que possam contribuir para rastreio, monitorização e acompanhamento clínico de forma mais acessível e menos invasiva.
 
